@@ -1,0 +1,14 @@
+Package: adsim
+Type: Package
+Title: Simulate Alzheimer's Disease clinical trials
+Version: 3.0
+Date: 2013-8-07
+Author: Dan Polhamus
+Depends: blockrand
+Suggests: metrumrg
+Maintainer: Dan Polhamus <danp@metrumrg.com>
+Description: Simulates clinical trial data for parallel, cross-over, and delayed start (D'Agostino, 2007) AD designs.  After selecting drug characteristics, the ADAS-cog disease progression model (Bayesian Beta-logit model) is used to simulate patient data. 
+License: GPL (>= 2)
+LazyLoad: yes
+Packaged: 2013-08-07 19:58:02 UTC; danp
+Built: R 3.0.1; ; 2013-08-07 20:02:01 UTC; windows

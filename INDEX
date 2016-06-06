@@ -1,0 +1,8 @@
+acRandomize             Simulate trial randomization
+acRun                   Generate patient ADAS-cog values
+adsim-package           Simulate Alzheimer's Disease Clinical Trials
+gLogitDelta             Set Emax on logit scale for a hypothetical
+                        treatment
+pAnalyzeDelayedStart    Analysis for a delayed-start design
+pAnalyzeParallel        Primary analysis for a parallel group design
+pAnalyzeXover           Primary analysis for a cross-over design
